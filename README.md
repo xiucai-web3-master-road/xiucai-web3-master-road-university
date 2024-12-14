@@ -9,7 +9,7 @@
 
 2. 微信视频号
    - [视频号二维码]
-   - 名称：秀才说web3
+   - 名称：跟着秀才学编程
    - 内容：每日技术分享，项目实战讲解
 
 3. 知识星球
@@ -19,7 +19,7 @@
 
 4. GitHub
    - [GitHub二维码]
-   - 账号：xiucai-web3
+   - 账号：[xiucai-web3-master-road](https://github.com/xiucai-web3-master-road)
    - 内容：开源项目，学习资料，代码示例
 
 ## 技术交流群
@@ -43,13 +43,13 @@
    - 测试用例
 
 2. 示例项目
-   - Uniswap V2实现
+   - Uniswap V3/V4实现
    - NFT市场示例
    - DeFi借贷平台
 
 3. 学习资料
    - Go语言教程
-   - Solidity教���
+   - Solidity教程
    - Web3开发指南
 
 # 课程体系
@@ -297,7 +297,7 @@
 
 ### 第一阶段：架构设计（3天）
 1. 系统架构
-   - 多���部署架构
+   - 多链部署架构
    - 微服务设计
    - 数据流优化
    - 性能监控系统
@@ -479,7 +479,7 @@ Uniswap V3/V4 + Wagmi完整项目架构
 # Web3招聘需求
 
 ## 热门岗位
-1. Go后端开发工程��
+1. Go后端开发工程师
    - 薪资范围：25-50k/月
    - 工作地点：远程
    - 要求：3年以上Go开发经验，熟悉区块链开发
@@ -526,7 +526,7 @@ Uniswap V3/V4 + Wagmi完整项目架构
    - Go后端微服务
    - React前端界面
    - 自动化测试用例
-   - 项目亮点说���
+   - 项目亮点说明
 
 2. 借贷平台
    - 智能合约架构设计
@@ -595,7 +595,7 @@ Uniswap V3/V4 + Wagmi完整项目架构
 名称：秀才web3大师之路
 
 ## Web3实战项目群
-[请在此处添加项目群���维码]
+[请在此处添加项目群二维码]
 群名：Web3实战研讨群
 
 ## 项目接单群
@@ -618,8 +618,8 @@ Uniswap V3/V4 + Wagmi完整项目架构
 
 # 二维码获取方式
 1. 微信号：GreenPoint8888（推荐）
-2. GitHub：xiucai-web3
-3. 邮箱：web3@xiucai.io
+2. GitHub：[xiucai-web3-master-road](https://github.com/xiucai-web3-master-road)
+3. 邮箱：xcai02716@gmail.com
 
 注意：
 1. 所有二维码请优先通过微信号 GreenPoint8888 获取
