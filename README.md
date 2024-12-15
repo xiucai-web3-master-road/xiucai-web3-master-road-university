@@ -3,17 +3,17 @@
 # 关注渠道
 ## 社交媒体
 1. 微信号
-   - [微信二维码]
+   - [![微信二维码](wagmi-dapp/public/images/微信号.png)]
    - 账号：GreenPoint8888
    - 说明：一对一答疑，技术指导
 
 2. 微信视频号
-   - [视频号二维码]
+   - [![视频号二维码](wagmi-dapp/public/images/微信视频号.png)]
    - 名称：跟着秀才学编程
    - 内容：每日技术分享，项目实战讲解
 
 3. 知识星球
-   - [知识星球二维码]
+   - [![知识星球二维码](wagmi-dapp/public/images/知识星球.png)]
    - 名称：秀才web3大师之路
    - 福利：独家学习资料，内部交流机会
 
@@ -24,12 +24,12 @@
 
 ## 技术交流群
 1. Web3实战项目群
-   - [项目群二维码]
+   - [![项目群二维码](wagmi-dapp/public/images/微信号.png)]
    - 群名：Web3实战研讨群
    - 福利：项目实战交流，技术分享
 
 2. 项目接单群
-   - [接单群二维码]
+   - [![接单群二维码](wagmi-dapp/public/images/微信号.png)]
    - 群名：Web3项目接单群
    - 福利：优质项目对接，远程工作机会
 
@@ -618,6 +618,7 @@ Uniswap V3/V4 + Wagmi完整项目架构
 
 # 二维码获取方式
 1. 微信号：GreenPoint8888（推荐）
+   - [![微信二维码](wagmi-dapp/public/images/微信号.png)]
 2. GitHub：[xiucai-web3-master-road](https://github.com/xiucai-web3-master-road)
 3. 邮箱：xcai02716@gmail.com
 
